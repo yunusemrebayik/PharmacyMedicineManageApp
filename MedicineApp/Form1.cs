@@ -92,6 +92,7 @@ namespace MedicineApp
           }
           showData();
           ClearTextBoxes();
+          selectedId = 0;
         }
         catch (Exception ex)
         {
