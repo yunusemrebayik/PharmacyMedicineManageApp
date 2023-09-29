@@ -1,6 +1,6 @@
 # Eczane İlaç Stok Yönetim Sistemi
 
-![Proje Resmi](IMG/1.png)
+![Ekran Görüntüsü 1](IMG/1.png)
 
 > Bu, eczanelerin ilaç stoklarını yönetmelerine yardımcı olan bir C# Windows Forms uygulamasıdır. Bu uygulama ile bir eczane stokunu yönetebilir, ilaç ekleyebilir, ilaç stokunu listeleyebilir, ilaç detaylarını güncelleyebilir ve ilaç silebilir.
 
@@ -39,7 +39,7 @@ Bu proje, eczanelerin ilaç stoklarını verimli bir şekilde yönetmelerine yar
 
 # Pharmacy Medicine Stock Management System
 
-![Project Image](IMG/1.png)
+![Ekran Görüntüsü 1](IMG/1.png)
 
 > This is a C# Windows Forms application that provides a user interface for pharmacy medicine stock management. With this application, a pharmacy can maintain its stock, add medicines, list medicine stock, update medicine details, and remove medicines.
 
